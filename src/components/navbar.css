@@ -1,0 +1,19 @@
+.navi {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navi-title span{
+color: goldenrod;
+}
+
+.navi-items{
+    font-size: larger;
+}
+.navi-items span{
+    padding-left: 2rem;
+}
+.navi-items span:hover{
+    color: lavenderblush;
+}

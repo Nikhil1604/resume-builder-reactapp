@@ -1,10 +1,15 @@
 
 import './App.css';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+import Header from './Pages/Header';
 
 function App() {
   return (
     <div>
-      <h1>Hello this is Nikhil Wanjare</h1>
+      <Navbar />
+      <Header />
+      <Footer />
     </div>
   );
 }

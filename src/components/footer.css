@@ -1,0 +1,34 @@
+.foot{
+    
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 3rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem black;
+    padding-bottom: 3rem;
+}
+.foot-link{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.foot-link span{
+    padding-top: 1rem;
+    font-size: large;
+}
+
+.foot-add{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.foot-add h3{
+    padding-top: 1rem;
+    font-size: larger;
+}
+.foot-add p{
+    padding-top: 1rem;
+    font-size: large;
+}
